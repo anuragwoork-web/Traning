@@ -1,49 +1,46 @@
 
-# info = {
-#     "key " : "value",
-#     "name " : "apnabihar",
-#     "age " : "25",
-#     "marks" : 98.2
+info = {
+    "key " : "value",
+    "name " : "apnabihar",
+    "age " : "25",
+    "marks" : 98.2
 
     
-# }
-# print(info)
+}
+print(info)
 
 
 
-# info = {
-#     "subjects " :["python", "c", "java"], 
-#     "topics " :("apnabihar"), 
-#     "age " : "25",
-#     "marks" : 98.2,
-#     "is adult ": True,
-# }
-# print( type(info))
+info = {
+    "subjects " :["python", "c", "java"], 
+    "topics " :("apnabihar"), 
+    "age " : "25",
+    "marks" : 98.2,
+    "is adult ": True,
+}
+print( type(info))
 
-# info = {
-#     "name " :["rashmi"], 
-#     "topics " :("apnabihar"), 
-#     "age " : "25",
-#     "marks" : 98.2,
-#     "is adult ": True,
-# }
-# info["name"] ="rashmi" 
-# info["suname"] = "singh"
-# print (info)
+info = {
+    "name " :["rashmi"], 
+    "topics " :("apnabihar"), 
+    "age " : "25",
+    "marks" : 98.2,
+    "is adult ": True,
+}
+info["name"] ="rashmi" 
+info["suname"] = "singh"
+print (info)
 
 
 
-# info = {
-#     "name " :["rashmi"], 
-#     "topics " :("apnabihar"), 
-#     "age " : "25",
-#     "marks" : 98.2,
-#     "is adult ": True,
-# }
-# info["name"] ="rashmi" 
-# info["suname"] = "singh"
-# print (info)
+info ={
+    "name " :["rashmi"], 
+    "topics " :("apnabihar"), 
+    "age " : "25",
+    "marks" : 98.2,
+    "is adult ": True,
 
+}
 
 
 student = { 
